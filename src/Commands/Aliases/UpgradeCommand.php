@@ -4,7 +4,7 @@ namespace Filament\Commands\Aliases;
 
 use Filament\Commands;
 
-class MakeUpgradeCommand extends Commands\MakeUpgradeCommand
+class UpgradeCommand extends Commands\UpgradeCommand
 {
     protected $hidden = true;
 
